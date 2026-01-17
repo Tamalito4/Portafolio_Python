@@ -13,4 +13,4 @@ Un simulador robusto que permite gestionar múltiples cuentas.
 
 ---
 **Nombre:** [Sebastian Oswaldo Velandia Botello]
-**Correo:** [sovelandiap2005@gmail.com]
+- **Correo:** [sovelandiap2005@gmail.com]
