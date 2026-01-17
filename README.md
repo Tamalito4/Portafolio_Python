@@ -12,4 +12,5 @@ Un simulador robusto que permite gestionar múltiples cuentas.
 - **Archivo:** `cajero.py`
 
 ---
-**Contacto:** [Sebastian Oswaldo Velandia Botello]
+**Nombre:** [Sebastian Oswaldo Velandia Botello]
+- **Correo:** [sovelandiap2005@gmail.com]
